@@ -11,4 +11,3 @@
 ### Crypto as Backing Collateral
   - wETH
   - wBTC
-  - wDAI
